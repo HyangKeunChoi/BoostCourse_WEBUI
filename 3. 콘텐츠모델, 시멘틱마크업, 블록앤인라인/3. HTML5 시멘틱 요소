@@ -1,0 +1,28 @@
+
+## 생각해보기
+
+HTML5에서 새로 생긴 Sematic 요소들입니다.
+
+```
+<article>
+<aside>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<time>
+```
+
+영상에서 다루지 않은 요소들입니다.(사실 다루지 않은 요소가 훨씬 많죠?)
+
+아래 URL을 참고하여 직접 공부를 해보세요.
+
+각 요소의 의미가 무엇인지 파악해보고, 예제 코드를 보고 따라해 보세요.
+
+ 
+
+
